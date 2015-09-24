@@ -26,8 +26,7 @@ public class Kata1 {
         System.out.println(p1.getBirth()); 
         System.out.println(p1.getage()); 
         System.out.println("....."); 
-        
-        
+        System.out.println(""); 
         System.out.println("Adios");        
         
     }
